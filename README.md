@@ -77,7 +77,7 @@ Visit `http://localhost:3000` in your browser to see the live map.
   - **`send-location`**: Receives location from a client, broadcasts it to all.
   - **`disconnect`**: Informs other clients to remove the user's marker.
 
-### Client (`scripts.js`):
+### Client (`script.js`):
 - Establishes a Socket.IO connection.
 - Uses browser’s Geolocation API to watch position and emit updates.
 - Initializes a Leaflet map to render markers:
