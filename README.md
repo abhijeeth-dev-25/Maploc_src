@@ -103,4 +103,4 @@ Visit `http://localhost:3000` in your browser to see the live map.
 
 ## ✅ Summary
 
-This project demonstrates how quickly you can build a **real-time, multi-user location tracking app** using modern JavaScript stack components. It’s ideal for learning how WebSockets, geolocation, and live mapping work together—and serves as a foundation for advanced features like chat, routing, or usage analytics
+This project demonstrates how quickly you can build a **real-time, multi-user location tracking app** using modern JavaScript stack components. It’s ideal for learning how WebSockets, geolocation, and live mapping work together—and serves as a foundation for advanced features like chat, routing, or usage analytics.
